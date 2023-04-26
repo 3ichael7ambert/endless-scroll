@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: hsl(0, 50%, 50%); /* set default background color */
+  }
+  
+  .content {
+    margin-top: 2000px; /* set initial height of content */
+  }
